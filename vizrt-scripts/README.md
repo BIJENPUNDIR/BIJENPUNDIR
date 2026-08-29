@@ -13,6 +13,10 @@ Reusable Viz Artist container scripts for broadcast graphics.
 
 - `texture-animation/TextureAnimationScript.vb` — animates texture position, controls X/Y scaling, and switches between vertex, linear, reflect, and spherical mapping.
 
+### Auto follow
+
+- `auto-follow/AutoFollowScript.vb` — smoothly follows a selected container’s XYZ position, scaling, and Z rotation.
+
 ## Setup
 
 1. Add the script to the Viz Artist text container.
