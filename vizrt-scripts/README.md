@@ -9,7 +9,7 @@ Reusable Viz Artist container scripts for broadcast graphics.
 - `text-sizing/two_range_text_box.vb` — applies fixed text-box dimensions for short and long text.
 - `text-sizing/dynamic_text_box.vb` — grows the text box after 50 characters, with maximum limits.
 
-## Setup
+### Car rigging\n\n- `car-rigging/car_suspension_rig.vb` — builds a basic car hierarchy and drives tire rotation, steering, body lean, and vertical suspension.\n\n## Setup
 
 1. Add the script to the Viz Artist text container.
 2. Update `TextPath` to match the target text container in your scene.
